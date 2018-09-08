@@ -1,6 +1,7 @@
 # What is it
 
-Repro for azure-sdk-for-go failing to return error response when delete resource group failed with non-conformant async behavior
+Repro for azure-sdk-for-go failing to return error response when delete resource group failed with non-conformant async behavior.
+https://github.com/Azure/azure-sdk-for-go/issues/2645
 
 ## Steps
 
